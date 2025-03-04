@@ -2,7 +2,7 @@
 
 A **dynamic, interactive map** that displays properties from a **Notion database** using **Next.js, Leaflet.js, and the Notion API**. Users can view property locations, details, and key information in a user-friendly map interface.
 
-![Property Map Screenshot](https://imgur.com/a/ck83lWa)
+![Property Map Screenshot]((https://i.imgur.com/SLVdUlq.png)
 
 ---
 
